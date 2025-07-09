@@ -1,5 +1,6 @@
 # About Me
-I'm a Full Stack Web Developer with expertise in building modern web applications. Currently expanding my skills in Docker for containerization and exploring AI/ML to integrate intelligent features into my projects.<br><br>🔧 Tech Stack:<br><br>Frontend: ReactJs, HTML, CSS, Tailwind, JavaScript<br><br>Backend: Node.js, Express, RESTAPI, JWT, Oauth<br><br>Database: MongoDB, MySQL<br><br>DevOps: Docker, Github Actions<br><br>Data Science: Numpy, Pandas, Matplotlib,  Seaborn<br><br>Learning: AI/ML (Scikit learn)
+I craft fast, scalable, and beautiful web experiences from front to back.
+Passionate about turning ideas into functional, pixel-perfect applications with clean architecture and intuitive UX.<br><br>🔧 Tech Stack:<br><br>Frontend: ReactJs, HTML, CSS, Tailwind, JavaScript<br><br>Backend: Node.js, Express, RESTAPI, JWT, Oauth<br><br>Database: MongoDB, MySQL<br><br>DevOps: Docker, Github Actions<br><br>Data Science: Numpy, Pandas, Matplotlib,  Seaborn<br><br>Learning: AI/ML (Scikit learn)
 
 
 ## 🌐 Socials:
