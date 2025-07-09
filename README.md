@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me
 I'm a Full Stack Web Developer with expertise in building modern web applications. Currently expanding my skills in Docker for containerization and exploring AI/ML to integrate intelligent features into my projects.<br><br>🔧 Tech Stack:<br><br>Frontend: ReactJs, HTML, CSS, Tailwind, JavaScript<br><br>Backend: Node.js, Express, RESTAPI, JWT, Oauth<br><br>Database: MongoDB, MySQL<br><br>DevOps: Docker, Github Actions<br><br>Data Science: Numpy, Pandas, Matplotlib,  Seaborn<br><br>Learning: AI/ML (Scikit learn)
 
 
@@ -17,5 +17,3 @@ I'm a Full Stack Web Developer with expertise in building modern web application
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
